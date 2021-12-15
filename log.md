@@ -16,10 +16,30 @@
 
 **Link to work:** 
 
-### Day 1: December 13, 2021 
+### Day 2: December 13, 2021 
 
 **Today's Progress**: Introduced to Github, tried coding some basic codes.
 
 **Thoughts:** Was extremely tired and got a bit distracted, still don't feel my pace is good enough. But slow and steady wins the race.
 
 **Link to work:** https://github.com/Anukriti167/Small/blob/main/GFG_OddOccurance, https://github.com/Anukriti167/Small/blob/main/GFG_Rev
+
+### Day 3: December 14, 2021 
+
+**Today's Progress**: Tried understanding Classes and Objects.
+
+**Thoughts:** Went and read previous reference docs to get an idea. 
+
+**Link to work:** 
+
+### Day 4: December 15, 2021 
+
+**Today's Progress**: Working on the project (Tamagotchi Game)
+
+**Thoughts:** Started building it with reference to Coursera, still not able to particularly gather how classes work. But trying to get the concept clear. 
+
+**Note:** One of the interesting things I came across is we can access class variables using self. But if instance variable is present then we will be accessing the instance variable in place of the class variable since it has more precedence in that case. Also since it shadows the class variable.
+  
+**Link to work:** 
+
+
