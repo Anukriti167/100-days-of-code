@@ -46,7 +46,7 @@
 
 **Today's Progress**: Working on the project (Tamagotchi Game) 2.0, wrote a code for arranging list of string alphabetically 
 
-**Thoughts:** I went ahead and analysed the project to properly understand its working. Still long way to go before I get comfortable in classes. Today while trying to write the code for "arranging list of string alphabetically" I found a very unconventional solution and therefore it didn't get accepted as a valid answer in Coursera. But I'm happy I could come up with that solution on my own. Cheers to this nice feeling! 
+**Thoughts:** I went ahead and analysed the project to properly understand its working. Still long way to go before I get comfortable in classes. Today while trying to write the code for "arranging list of string alphabetically" I found a very unconventional solution and therefore it didn't get accepted as a valid answer in Coursera but the output was same. I'm happy I could come up with that solution on my own. Cheers to this nice feeling! 
 
 **Note:** 
 
