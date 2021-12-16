@@ -42,7 +42,7 @@
   
 **Link to work:** 
 
-### Day 4: December 16, 2021 
+### Day 5: December 16, 2021 
 
 **Today's Progress**: Working on the project (Tamagotchi Game) 2.0, wrote a code for arranging list of string alphabetically 
 
