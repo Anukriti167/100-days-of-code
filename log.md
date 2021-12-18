@@ -52,5 +52,13 @@
 
 **Link to work:** https://github.com/Anukriti167/Small/blob/3dacb6d10f60fe9d5ca9f5b023bba59f6e1e466e/Sorting%20alphabetically
 
+### Day 6: December 17, 2021 
 
+**Today's Progress**: Worked on understanding Inheritance in classes.
+
+**Thoughts:** I'm using Coursera course on "Python Classes and Inheritance" by University of Michigan for reference to understand the concept of classes. Still, not very comfortable yet with classes but trying to get used to it.
+
+**Note:** 
+
+**Link to work:** 
 
