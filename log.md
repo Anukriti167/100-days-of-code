@@ -62,3 +62,13 @@
 
 **Link to work:** 
 
+### Day 7: December 18, 2021 
+
+**Today's Progress**: Method Overriding
+
+**Thoughts:** Not much, bit upset didn't put in the required amount of hours. Still understood the concept of Method Overriding.
+
+**Note:** 
+
+**Link to work:** 
+
