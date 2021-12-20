@@ -82,3 +82,13 @@
 
 **Link to work:** 
 
+## Day 9: December 20, 2021 
+
+**Today's Progress**: Solved 4 GFG questions.
+
+**Thoughts:** 1 of the questions I really struggled with maybe also because I had tried before and couldn't so wasn't feeling confident enough. Others I solved on my own. Also reviewed other correct solutions.
+
+**Note:** The pop function for last element in the list takes O(n) time, which might lead to high time complexity.
+
+**Work:** Array insert at index, Count Smaller Than X, Count Elements Greater Than X, Find Immediate Smaller Than X
+
