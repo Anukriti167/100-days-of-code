@@ -72,3 +72,13 @@
 
 **Link to work:** 
 
+## Day 8: December 19, 2021 
+
+**Today's Progress**: Done with the Coursera course (all that was needed for now)
+
+**Thoughts:** Understood the concept of invoking of classes, Inheritance. Still finding it hard to solve the GFG problems. Will work on it more.  
+
+**Note:** If you refer to super(), python takes care of looking up that in the parent class.
+
+**Link to work:** 
+
