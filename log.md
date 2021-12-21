@@ -92,3 +92,13 @@
 
 **Work:** Array insert at index, Count Smaller Than X, Count Elements Greater Than X, Find Immediate Smaller Than X
 
+## Day 10: December 21, 2021 
+
+**Today's Progress**: Solved 2 GFG questions.
+
+**Thoughts:** I tend to implemet data structures like predominantly stack in my solutions way too much. Which tends to increase the time complexity of my solutions. Need to implemet basic solutions as well.
+
+**Note:** 
+
+**Work:** Who has the majority?, Find Immediate Greater Than X
+
