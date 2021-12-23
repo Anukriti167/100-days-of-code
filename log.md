@@ -102,3 +102,13 @@
 
 **Work:** Who has the majority?, Find Immediate Greater Than X
 
+## Day 11: December 22, 2021 
+
+**Today's Progress**: Solved 2 GFG questions.
+
+**Thoughts:** Couldn't figure out the reason why code isn't working then consulted a friend to understand that because of the driver code. Going to work on it.
+
+**Note:** 
+
+**Work:** Maximum and Minimum In Array, Reverse The Array
+
