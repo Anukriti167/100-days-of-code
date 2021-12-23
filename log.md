@@ -112,3 +112,14 @@
 
 **Work:** Maximum and Minimum In Array, Reverse The Array
 
+## Day 12: December 23, 2021 
+
+**Today's Progress**:
+
+**Thoughts:** 
+
+**Note:** Interesting thing that I noticed about lists is that, if suppose N = 5 and D = 2 then suppose I use "for i in range(len(arr[D: N])):" even if I slice the list the "i" will start from 0 only and not function from 2 till 5 but if I use "for i in arr[D : N]:" then "i" will take values arr[D].  
+
+**Work:** Maximum and Minimum In Array, Reverse The Array
+
+
