@@ -121,3 +121,13 @@
 **Note:** Interesting thing that I noticed about lists is that, if suppose N = 5 and D = 2 then suppose I use "for i in range(len(arr[D: N])):" even if I slice the list the "i" will start from 0 only and not function from 2 till 5 but if I use "for i in arr[D : N]:" then "i" will take values arr[D].  
 
 **Work:** 
+
+## Day 13: December 27, 2021 
+
+**Today's Progress**: Did 4 questions 
+
+**Thoughts:**On 24th - 25th worked on the same code but didn't work. On 27th resolved it and did few others as well. Completed the GFG "Lists in Python"
+
+**Note:**
+
+**Work:** 
