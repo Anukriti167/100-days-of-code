@@ -131,3 +131,13 @@
 **Note:**
 
 **Work:** 
+
+## Day 14: July 4th 2022
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+**Note:**
+
+**Work:** 
