@@ -134,9 +134,11 @@
 
 ## Day 14: July 4th 2022
 
-**Today's Progress**: 
+**Today's Progress**: Have started grinding on Leetcode for past few months but not that great, trying to grasp DP while getting better to coding all together 
 
-**Thoughts:**
+**New Question:**
+
+**Practice Question:**
 
 **Note:**
 
